@@ -13,7 +13,7 @@ elif age ==18:
     print(f"Salom, {name}.\nSiz voyaga yetgansiz")
 else:
     print(f"Salom, {name}.\nSiz voyga yetmagansiz")
-#while True:
+
 javob = input("Muchalingizni bilishni hohlaysizmi? (Ha/Yo'q): ") 
 
       #if javob == "Yo'q":
